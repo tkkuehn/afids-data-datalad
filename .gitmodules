@@ -8,3 +8,8 @@
 	url = git@github.com:tkkuehn/afids-hcp.git
 	datalad-id = 65a4c0b6-6bb4-41d9-a460-d1731be988b7
 	datalad-url = git@github.com:tkkuehn/afids-hcp.git
+[submodule "afids-snsx-separate"]
+	path = afids-snsx-separate
+	url = git@github.com:tkkuehn/afids-snsx-separate.git
+	datalad-id = 4a33967d-0261-4d08-9e97-078e71e12a72
+	datalad-url = git@github.com:tkkuehn/afids-snsx-separate.git
