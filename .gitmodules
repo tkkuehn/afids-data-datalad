@@ -13,3 +13,8 @@
 	url = git@github.com:tkkuehn/afids-snsx-separate.git
 	datalad-id = 4a33967d-0261-4d08-9e97-078e71e12a72
 	datalad-url = git@github.com:tkkuehn/afids-snsx-separate.git
+[submodule "afids-snsx"]
+	path = afids-snsx
+	url = git@github.com:tkkuehn/afids-snsx.git
+	datalad-id = fdf75bf9-031a-42e3-b05a-837e4b9ce2a4
+	datalad-url = git@github.com:tkkuehn/afids-snsx.git
